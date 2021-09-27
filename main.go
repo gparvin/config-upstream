@@ -3,8 +3,7 @@ import (
 	"fmt"
 )
 
-// my real code
-
-// some new stuff
-
-// my new dev work
+func main() {
+	fmt.Println("Hello, 世界")
+	fmt.Println("Hello, Floato")
+}
